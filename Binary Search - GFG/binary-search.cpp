@@ -10,23 +10,39 @@ using namespace std;
 
 class Solution {
   public:
+  int fn(int arr[],int low,int high,int k){
+      if(low>high){
+          return -1;
+      }
+      int mid=(low+high)/2;
+      if(arr[mid]==k){
+          return mid;
+      }
+      else if(arr[mid]<k){
+          return fn(arr,mid+1,high,k);
+      }
+      else{
+          return fn(arr,low,mid-1,k);
+      }
+  }
     int binarysearch(int arr[], int n, int k) {
         // code here
-        int low=0;
-        int high=n-1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(arr[mid]==k) {
-                return mid;
-            }
-            else if(arr[mid]<k){
-                low=mid+1;
-            }
-            else{
-                high=mid-1;
-            }
-        }
-        return -1;
+        // int low=0;
+        // int high=n-1;
+        // while(low<=high){
+        //     int mid=(low+high)/2;
+        //     if(arr[mid]==k) {
+        //         return mid;
+        //     }
+        //     else if(arr[mid]<k){
+        //         low=mid+1;
+        //     }
+        //     else{
+        //         high=mid-1;
+        //     }
+        // }
+        // return -1;
+        return fn(arr,0,n-1,k);
     }
 };
 
