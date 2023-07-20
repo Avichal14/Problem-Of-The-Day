@@ -30,7 +30,7 @@ public:
         }
         ListNode* prev=NULL;
         ListNode* curr=head;
-        ListNode* forward=curr->next;
+        ListNode* forward;
         int count=0;
         
         while(count<k){
