@@ -11,25 +11,15 @@ public:
 	/* if x is present in arr[] then returns the count
 		of occurrences of x, otherwise returns 0. */
 	int count(int arr[], int n, int x) {
-	    // code here 
-	    int l = 0;
-        int h = n-1;
-        int count = 0;
-        
-        while(l <= h)
-        {
-            if(arr[l] != x)
-                l++;
-            if(arr[h] != x)
-                h--;
-            if(arr[l] == x && arr[h] == x){
-                count = (h-l)+1;
-                break;
-            }
-        }
-        
-        return count;
+	    // code here
+	     unordered_map<int,int>mp;
 	    
+	    for(int i=0;i<n;i++)
+	    {
+	        mp[arr[i]]++;
+	    }
+	    
+	    return mp[x];
 	}
 };
 
