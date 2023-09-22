@@ -3,48 +3,53 @@
 using namespace std;
 
 // } Driver Code Ends
-
-
-int lowerbound(int arr[],int n, int x){
-        int low=0;
-        int high=n-1;
+class Solution
+{
+    public:
+    int firstoc(int arr[],int n,int x){
+        int s=0;
+        int e=n-1;
         int ans=n;
-        while(low<=high){
-            int mid=(low+high)/2;
+        while(s<=e){
+            int mid=s+(e-s)/2;
             if(arr[mid]>=x){
                 ans=mid;
-                high=mid-1;
+                e=mid-1;
             }
             else{
-                low=mid+1;
+                s=mid+1;
             }
         }
         return ans;
     }
-int upperbound(int arr[],int n, int x){
-        int low=0;
-        int high=n-1;
+    int lastoc(int arr[],int n,int x){
+        int s=0;
+        int e=n-1;
         int ans=n;
-        while(low<=high){
-            int mid=(low+high)/2;
+        while(s<=e){
+            int mid=s+(e-s)/2;
             if(arr[mid]>x){
                 ans=mid;
-                high=mid-1;
+                e=mid-1;
+               
             }
             else{
-                low=mid+1;
+                 s=mid+1;
             }
         }
         return ans;
     }
-vector<int> find(int arr[], int n , int x )
-{
-    // code here
-    int lb=lowerbound(arr,n,x);
-    if(lb==n || arr[lb]!=x) return {-1,-1};
-    return {lb,upperbound(arr,n,x)-1};
-    
-}
+    vector<int> find(int arr[], int n , int x )
+    {
+        // code here
+        int a=firstoc(arr,n,x);
+        // int b=lastoc(arr,n,x);
+        // return {a,b};
+        
+        if(a==n || arr[a]!=x) return {-1,-1};
+        return {a,lastoc(arr,n,x)-1};
+    }
+};
 
 //{ Driver Code Starts.
 
@@ -60,7 +65,8 @@ int main()
         for(i=0;i<n;i++)
         cin>>arr[i];
         vector<int> ans;
-        ans=find(arr,n,x);
+        Solution ob;
+        ans=ob.find(arr,n,x);
         cout<<ans[0]<<" "<<ans[1]<<endl;
     }
     return 0;
