@@ -23,6 +23,7 @@ All my GFG`s POTD Question Solution here.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -35,4 +36,8 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
