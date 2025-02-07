@@ -30,6 +30,7 @@ All my GFG`s POTD Question Solution here.
 | [0001-two-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
@@ -68,6 +69,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
@@ -90,6 +92,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
