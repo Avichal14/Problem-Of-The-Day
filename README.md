@@ -61,6 +61,7 @@ All my GFG`s POTD Question Solution here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -76,6 +77,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
@@ -100,5 +102,6 @@ All my GFG`s POTD Question Solution here.
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
