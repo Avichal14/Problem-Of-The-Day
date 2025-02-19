@@ -94,6 +94,7 @@ All my GFG`s POTD Question Solution here.
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
