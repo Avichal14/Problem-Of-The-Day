@@ -1,26 +1,19 @@
 class Solution {
-public: 
-    bool alpha(char ch){
-        if((ch>=97 && ch<=122) || (ch>=65 && ch<=90)){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
+public:
     string reverseOnlyLetters(string s) {
-        int l=0,h=s.size()-1;
-        while(l<h){
-            if(alpha(s[l]) && alpha(s[h])){
-                swap(s[l],s[h]);
-                l++;
-                h--;
+        int low=0;
+        int high=s.size()-1;
+        while(low<=high){
+            if(isalpha(s[low]) && isalpha(s[high])){
+                swap(s[low],s[high]);
+                low++;
+                high--;
             }
-            else if(!alpha(s[l])){
-                l++;
+            else if(!isalpha(s[low])){
+                low++;
             }
             else{
-                h--;
+                high--;
             }
         }
         return s;
