@@ -70,6 +70,7 @@ All my GFG`s POTD Question Solution here.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
+| [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 ## Sliding Window
@@ -97,6 +98,7 @@ All my GFG`s POTD Question Solution here.
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 ## Sorting
 |  |
 | ------- |
