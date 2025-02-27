@@ -14,6 +14,7 @@ All my GFG`s POTD Question Solution here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -66,6 +67,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
@@ -95,6 +97,7 @@ All my GFG`s POTD Question Solution here.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
