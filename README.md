@@ -10,6 +10,7 @@ All my GFG`s POTD Question Solution here.
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ All my GFG`s POTD Question Solution here.
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
+| [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -155,5 +157,10 @@ All my GFG`s POTD Question Solution here.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
