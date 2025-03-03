@@ -4,7 +4,7 @@ public:
     int countPrimes(int n) {
         if(n==0) return 0;
 
-        vector<bool> prime(n,true);// all are marked prime already
+        vector<bool>prime(n,true);
         prime[0]=prime[1]=false;
 
         int ans=0;
@@ -16,6 +16,7 @@ public:
                 while(j<n){
                     prime[j]=false;
                     j+=i;
+
                 }
             }
         }
