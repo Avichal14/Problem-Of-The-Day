@@ -3,6 +3,7 @@ public:
     int majorityElement(vector<int>& v) {
         int count=0;
         int el;
+        //Moore voting algo
         for(int i=0;i<v.size();i++){
         if(count==0){
             count=1;
