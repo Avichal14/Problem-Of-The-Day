@@ -11,6 +11,7 @@ All my GFG`s POTD Question Solution here.
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -60,6 +62,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
