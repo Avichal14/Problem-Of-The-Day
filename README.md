@@ -10,6 +10,7 @@ All my GFG`s POTD Question Solution here.
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -18,6 +19,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -29,6 +31,7 @@ All my GFG`s POTD Question Solution here.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
