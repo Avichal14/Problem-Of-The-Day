@@ -86,6 +86,7 @@ All my GFG`s POTD Question Solution here.
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
@@ -115,6 +116,7 @@ All my GFG`s POTD Question Solution here.
 | [0011-container-with-most-water](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
