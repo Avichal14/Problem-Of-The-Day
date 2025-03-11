@@ -1,7 +1,7 @@
 class Solution {
 public:
     string convert(string s, int r) {
-        if(r == 1) return s; // Avoid special case of r == 1 creating infinite loops.
+         if(r == 1) return s; // Avoid special case of r == 1 creating infinite loops.
 
         vector<vector<char>> v(r, vector<char>(s.length(), '*'));
         
