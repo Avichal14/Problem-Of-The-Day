@@ -11,7 +11,6 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* left, ListNode* right) {
-        
         if(left==0) return right;
         if(right ==0) return left;
 
