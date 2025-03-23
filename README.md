@@ -168,12 +168,14 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 ## Greedy
 |  |
 | ------- |
@@ -204,4 +206,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
