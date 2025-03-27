@@ -208,8 +208,21 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
