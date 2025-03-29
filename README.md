@@ -13,6 +13,7 @@ All my GFG`s POTD Question Solution here.
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -119,6 +120,7 @@ All my GFG`s POTD Question Solution here.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
@@ -190,6 +192,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
