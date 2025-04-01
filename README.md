@@ -15,6 +15,7 @@ All my GFG`s POTD Question Solution here.
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -23,6 +24,7 @@ All my GFG`s POTD Question Solution here.
 | [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -232,4 +234,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
