@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii/">375. Guess Number Higher or Lower II</a></h2><h3>Medium</h3><hr><div><p>We are playing the Guessing Game. The game will work as follows:</p>
+<h2><a href="https://leetcode.com/problems/guess-number-higher-or-lower-ii">375. Guess Number Higher or Lower II</a></h2><h3>Medium</h3><hr><p>We are playing the Guessing Game. The game will work as follows:</p>
 
 <ol>
 	<li>I pick a number between&nbsp;<code>1</code>&nbsp;and&nbsp;<code>n</code>.</li>
@@ -12,8 +12,9 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/10/graph.png" style="width: 505px; height: 388px;">
-<pre><strong>Input:</strong> n = 10
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/10/graph.png" style="width: 505px; height: 388px;" />
+<pre>
+<strong>Input:</strong> n = 10
 <strong>Output:</strong> 16
 <strong>Explanation:</strong> The winning strategy is as follows:
 - The range is [1,10]. Guess 7.
@@ -36,14 +37,16 @@ The worst case in all these scenarios is that you pay $16. Hence, you only need 
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> n = 1
+<pre>
+<strong>Input:</strong> n = 1
 <strong>Output:</strong> 0
 <strong>Explanation:</strong>&nbsp;There is only one possible number, so you can guess 1 and not have to pay anything.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> n = 2
+<pre>
+<strong>Input:</strong> n = 2
 <strong>Output:</strong> 1
 <strong>Explanation:</strong>&nbsp;There are two possible numbers, 1 and 2.
 - Guess 1.
@@ -58,4 +61,3 @@ The worst case is that you pay $1.
 <ul>
 	<li><code>1 &lt;= n &lt;= 200</code></li>
 </ul>
-</div>
