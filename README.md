@@ -58,6 +58,7 @@ All my GFG`s POTD Question Solution here.
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -142,6 +143,7 @@ All my GFG`s POTD Question Solution here.
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
