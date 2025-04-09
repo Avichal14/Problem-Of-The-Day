@@ -11,6 +11,7 @@ All my GFG`s POTD Question Solution here.
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
@@ -55,6 +56,7 @@ All my GFG`s POTD Question Solution here.
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
@@ -139,6 +141,7 @@ All my GFG`s POTD Question Solution here.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
