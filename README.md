@@ -34,6 +34,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -150,6 +151,7 @@ All my GFG`s POTD Question Solution here.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
@@ -174,6 +176,7 @@ All my GFG`s POTD Question Solution here.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -192,6 +195,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
