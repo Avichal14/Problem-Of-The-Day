@@ -80,6 +80,7 @@ All my GFG`s POTD Question Solution here.
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
