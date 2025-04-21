@@ -197,6 +197,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -239,6 +240,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -247,6 +249,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +258,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 ## Game Theory
 |  |
 | ------- |
