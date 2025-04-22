@@ -263,4 +263,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
