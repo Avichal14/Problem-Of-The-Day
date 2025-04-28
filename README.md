@@ -245,6 +245,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 ## Queue
@@ -254,15 +255,18 @@ All my GFG`s POTD Question Solution here.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 ## Game Theory
