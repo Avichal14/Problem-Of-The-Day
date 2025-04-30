@@ -19,6 +19,7 @@ All my GFG`s POTD Question Solution here.
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
@@ -73,6 +74,7 @@ All my GFG`s POTD Question Solution here.
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
