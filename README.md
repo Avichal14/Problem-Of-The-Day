@@ -74,6 +74,7 @@ All my GFG`s POTD Question Solution here.
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -111,6 +112,7 @@ All my GFG`s POTD Question Solution here.
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
@@ -242,6 +244,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 ## Depth-First Search
 |  |
