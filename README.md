@@ -283,6 +283,7 @@ All my GFG`s POTD Question Solution here.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
