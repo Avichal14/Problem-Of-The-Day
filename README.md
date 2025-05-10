@@ -96,6 +96,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
@@ -242,6 +243,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
