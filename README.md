@@ -61,6 +61,7 @@ All my GFG`s POTD Question Solution here.
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0162-find-peak-element) |
@@ -221,6 +222,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
@@ -302,4 +304,8 @@ All my GFG`s POTD Question Solution here.
 | [0175-combine-two-tables](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0595-big-countries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
