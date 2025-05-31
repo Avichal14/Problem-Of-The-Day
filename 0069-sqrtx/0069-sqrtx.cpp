@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int mySqrt(int x) {
+   int mySqrt(int x) {
        int target=x;
        int s=0;
        int e=x;
