@@ -16,6 +16,7 @@ All my GFG`s POTD Question Solution here.
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -42,6 +43,7 @@ All my GFG`s POTD Question Solution here.
 | [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -143,6 +145,7 @@ All my GFG`s POTD Question Solution here.
 | [0091-decode-ways](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
