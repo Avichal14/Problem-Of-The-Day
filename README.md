@@ -113,6 +113,7 @@ All my GFG`s POTD Question Solution here.
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ All my GFG`s POTD Question Solution here.
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
@@ -149,6 +151,7 @@ All my GFG`s POTD Question Solution here.
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -206,6 +209,7 @@ All my GFG`s POTD Question Solution here.
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
 ## Linked List
