@@ -240,6 +240,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
@@ -288,6 +289,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
@@ -298,6 +300,7 @@ All my GFG`s POTD Question Solution here.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
@@ -309,6 +312,7 @@ All my GFG`s POTD Question Solution here.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
