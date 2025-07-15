@@ -164,6 +164,7 @@ All my GFG`s POTD Question Solution here.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
