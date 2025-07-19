@@ -159,6 +159,7 @@ All my GFG`s POTD Question Solution here.
 | [0242-valid-anagram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -206,6 +207,7 @@ All my GFG`s POTD Question Solution here.
 | [0283-move-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
