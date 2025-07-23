@@ -33,6 +33,7 @@ All my GFG`s POTD Question Solution here.
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -78,6 +79,7 @@ All my GFG`s POTD Question Solution here.
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
@@ -253,6 +255,7 @@ All my GFG`s POTD Question Solution here.
 | [0162-find-peak-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
