@@ -100,6 +100,7 @@ All my GFG`s POTD Question Solution here.
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
