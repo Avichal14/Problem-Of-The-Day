@@ -32,6 +32,7 @@ All my GFG`s POTD Question Solution here.
 | [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
@@ -69,6 +70,7 @@ All my GFG`s POTD Question Solution here.
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
