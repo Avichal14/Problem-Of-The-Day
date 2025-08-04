@@ -1,6 +1,6 @@
 class Solution {
 public:
-bool pal(string &s,int st,int end){
+   bool pal(string &s,int st,int end){
     if(st>=end){
         return true;
     }
