@@ -1,6 +1,6 @@
 class Solution {
 public:
-     vector<int> nextsmallerele(vector<int> arr){
+    vector<int> nextsmallerele(vector<int> arr){
         vector<int> ans(arr.size());
         stack<int> st;
         st.push(-1);
