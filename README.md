@@ -17,6 +17,7 @@ All my GFG`s POTD Question Solution here.
 | [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -48,6 +49,7 @@ All my GFG`s POTD Question Solution here.
 | [0206-reverse-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
