@@ -178,6 +178,7 @@ All my GFG`s POTD Question Solution here.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3396-valid-word) |
