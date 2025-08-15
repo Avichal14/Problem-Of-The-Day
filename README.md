@@ -18,6 +18,7 @@ All my GFG`s POTD Question Solution here.
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -50,6 +51,7 @@ All my GFG`s POTD Question Solution here.
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -130,6 +132,7 @@ All my GFG`s POTD Question Solution here.
 | [0231-power-of-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
