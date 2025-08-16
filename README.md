@@ -24,6 +24,7 @@ All my GFG`s POTD Question Solution here.
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
@@ -301,6 +302,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1448-maximum-69-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
