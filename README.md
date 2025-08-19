@@ -9,6 +9,7 @@ All my GFG`s POTD Question Solution here.
 | [0009-palindrome-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ All my GFG`s POTD Question Solution here.
 | [0041-first-missing-positive](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0078-subsets) |
