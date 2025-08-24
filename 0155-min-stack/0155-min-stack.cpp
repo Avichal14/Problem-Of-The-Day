@@ -1,6 +1,6 @@
 class MinStack {
 public:
-    stack<pair<int ,int>>s;
+     stack<pair<int ,int>>s;
     MinStack() {
         
     }
