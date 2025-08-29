@@ -70,6 +70,7 @@ All my GFG`s POTD Question Solution here.
 | [0041-first-missing-positive](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0075-sort-colors) |
