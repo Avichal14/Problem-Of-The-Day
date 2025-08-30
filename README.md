@@ -28,6 +28,7 @@ All my GFG`s POTD Question Solution here.
 | [1448-maximum-69-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ All my GFG`s POTD Question Solution here.
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
+| [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -319,6 +321,7 @@ All my GFG`s POTD Question Solution here.
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -403,4 +406,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
+## Union Find
+|  |
+| ------- |
+| [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
