@@ -36,6 +36,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0118-pascals-triangle) |
@@ -178,6 +179,7 @@ All my GFG`s POTD Question Solution here.
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0091-decode-ways) |
@@ -295,6 +297,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0143-reorder-list) |
