@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int longestValidParentheses(string s) {
+     int longestValidParentheses(string s) {
         stack<int> st;
         st.push(-1);
         int maxlen=0;
