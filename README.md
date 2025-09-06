@@ -71,6 +71,7 @@ All my GFG`s POTD Question Solution here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0049-group-anagrams) |
@@ -280,6 +281,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
