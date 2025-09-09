@@ -20,7 +20,6 @@ Array.prototype.groupBy = function(fn) {
       return grouped_Arr;
 };
 
-
 /**
  * [1,2,3].groupBy(String) // {"1":[1],"2":[2],"3":[3]}
  */
