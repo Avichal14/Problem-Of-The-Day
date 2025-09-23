@@ -12,6 +12,6 @@ public:
                 maxLength = max(maxLength, i - j + 1);
             }
         }
-        return maxLength;   
+        return maxLength; 
     }
 };
