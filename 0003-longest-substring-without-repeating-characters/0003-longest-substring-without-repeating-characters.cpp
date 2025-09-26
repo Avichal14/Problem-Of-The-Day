@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
+   int lengthOfLongestSubstring(string s) {
         int n=s.size();
         int l=0;
         int ans=0;
