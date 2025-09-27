@@ -22,6 +22,7 @@ All my GFG`s POTD Question Solution here.
 | [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -107,6 +108,7 @@ All my GFG`s POTD Question Solution here.
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0907-koko-eating-bananas) |
@@ -444,4 +446,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
