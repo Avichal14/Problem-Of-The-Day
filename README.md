@@ -32,6 +32,7 @@ All my GFG`s POTD Question Solution here.
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1642-water-bottles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2481-strictly-palindromic-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2481-strictly-palindromic-number) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -267,6 +268,7 @@ All my GFG`s POTD Question Solution here.
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
+| [2481-strictly-palindromic-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -454,4 +456,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
