@@ -46,6 +46,7 @@ All my GFG`s POTD Question Solution here.
 | [0070-climbing-stairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
@@ -93,6 +94,7 @@ All my GFG`s POTD Question Solution here.
 | [0088-merge-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
