@@ -137,6 +137,7 @@ All my GFG`s POTD Question Solution here.
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -196,6 +197,7 @@ All my GFG`s POTD Question Solution here.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -230,6 +232,7 @@ All my GFG`s POTD Question Solution here.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3396-valid-word) |
@@ -368,6 +371,7 @@ All my GFG`s POTD Question Solution here.
 | [0155-min-stack](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0303-range-sum-query-immutable) |
+| [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -467,6 +471,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -479,6 +484,7 @@ All my GFG`s POTD Question Solution here.
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Union Find
