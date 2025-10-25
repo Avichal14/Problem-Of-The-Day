@@ -31,6 +31,7 @@ All my GFG`s POTD Question Solution here.
 | [1448-maximum-69-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2481-strictly-palindromic-number) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
