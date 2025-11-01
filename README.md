@@ -148,6 +148,7 @@ All my GFG`s POTD Question Solution here.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3429-special-array-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -204,6 +205,7 @@ All my GFG`s POTD Question Solution here.
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3827-implement-router) |
@@ -337,6 +339,7 @@ All my GFG`s POTD Question Solution here.
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1765-merge-in-between-linked-lists) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
