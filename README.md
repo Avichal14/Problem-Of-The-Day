@@ -140,6 +140,7 @@ All my GFG`s POTD Question Solution here.
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
@@ -263,6 +264,7 @@ All my GFG`s POTD Question Solution here.
 | [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +276,7 @@ All my GFG`s POTD Question Solution here.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
