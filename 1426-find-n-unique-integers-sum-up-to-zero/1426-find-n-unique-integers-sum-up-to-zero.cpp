@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> sumZero(int n) {
+     vector<int> sumZero(int n) {
         vector<int> a;
         if (n % 2 != 0) {
             a.push_back(0);
