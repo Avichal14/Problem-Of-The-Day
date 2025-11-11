@@ -53,6 +53,7 @@ All my GFG`s POTD Question Solution here.
 | [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0576-out-of-boundary-paths) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -116,6 +117,7 @@ All my GFG`s POTD Question Solution here.
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
@@ -237,6 +239,7 @@ All my GFG`s POTD Question Solution here.
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
+| [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1264-maximum-number-of-words-you-can-type) |
