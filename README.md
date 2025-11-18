@@ -125,6 +125,7 @@ All my GFG`s POTD Question Solution here.
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
