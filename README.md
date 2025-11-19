@@ -146,6 +146,7 @@ All my GFG`s POTD Question Solution here.
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -215,6 +216,7 @@ All my GFG`s POTD Question Solution here.
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -295,6 +297,7 @@ All my GFG`s POTD Question Solution here.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
@@ -348,6 +351,7 @@ All my GFG`s POTD Question Solution here.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
