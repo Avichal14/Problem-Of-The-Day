@@ -39,6 +39,7 @@ All my GFG`s POTD Question Solution here.
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -156,6 +157,7 @@ All my GFG`s POTD Question Solution here.
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
