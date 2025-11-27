@@ -127,6 +127,7 @@ All my GFG`s POTD Question Solution here.
 | [0496-next-greater-element-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
@@ -192,6 +193,7 @@ All my GFG`s POTD Question Solution here.
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -213,6 +215,7 @@ All my GFG`s POTD Question Solution here.
 | [0496-next-greater-element-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -353,6 +356,7 @@ All my GFG`s POTD Question Solution here.
 | [0455-assign-cookies](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
