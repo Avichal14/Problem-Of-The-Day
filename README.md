@@ -144,6 +144,7 @@ All my GFG`s POTD Question Solution here.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -224,6 +225,7 @@ All my GFG`s POTD Question Solution here.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
@@ -536,6 +538,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Segment Tree
