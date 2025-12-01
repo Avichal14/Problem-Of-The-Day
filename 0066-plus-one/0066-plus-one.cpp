@@ -1,6 +1,6 @@
 class Solution {
 public:
-     vector<int> plusOne(vector<int>& digits) {
+    vector<int> plusOne(vector<int>& digits) {
          int n=digits.size(); int i,sum=0,temp;
         i=n-1;
         while(i>=0){
