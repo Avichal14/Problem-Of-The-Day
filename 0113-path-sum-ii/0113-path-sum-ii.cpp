@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root,int targetsum,int currsum,vector<int>path,vector<vector<int>>& ans){
+     void solve(TreeNode* root,int targetsum,int currsum,vector<int>path,vector<vector<int>>& ans){
         //base case
         if(root==NULL){
             return ;
