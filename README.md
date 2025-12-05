@@ -41,6 +41,7 @@ All my GFG`s POTD Question Solution here.
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3830-find-closest-person) |
@@ -168,6 +169,7 @@ All my GFG`s POTD Question Solution here.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3429-special-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -544,6 +546,7 @@ All my GFG`s POTD Question Solution here.
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Segment Tree
 |  |
