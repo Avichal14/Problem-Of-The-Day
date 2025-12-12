@@ -61,6 +61,7 @@ All my GFG`s POTD Question Solution here.
 | [0300-longest-increasing-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0576-out-of-boundary-paths) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
@@ -125,6 +126,7 @@ All my GFG`s POTD Question Solution here.
 | [0303-range-sum-query-immutable](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
