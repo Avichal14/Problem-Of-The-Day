@@ -1,4 +1,3 @@
-
 var TimeLimitedCache = function() {
     this.cache={}
 };
