@@ -196,6 +196,7 @@ All my GFG`s POTD Question Solution here.
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@ All my GFG`s POTD Question Solution here.
 | [0287-find-the-duplicate-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
