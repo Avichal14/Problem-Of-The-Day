@@ -1,5 +1,6 @@
 class Solution {
 public:
+    public:
     string minWindow(string s, string t) {
         if (s.empty() || t.empty()) {
             return "";
