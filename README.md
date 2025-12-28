@@ -146,6 +146,7 @@ All my GFG`s POTD Question Solution here.
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -313,6 +314,7 @@ All my GFG`s POTD Question Solution here.
 | [0074-search-a-2d-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
@@ -418,6 +420,7 @@ All my GFG`s POTD Question Solution here.
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0907-koko-eating-bananas) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Stack
