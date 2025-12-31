@@ -139,6 +139,7 @@ All my GFG`s POTD Question Solution here.
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0792-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0804-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
@@ -238,6 +239,7 @@ All my GFG`s POTD Question Solution here.
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0804-unique-morse-code-words) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -283,6 +285,7 @@ All my GFG`s POTD Question Solution here.
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0804-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1264-maximum-number-of-words-you-can-type) |
