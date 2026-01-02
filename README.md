@@ -144,6 +144,7 @@ All my GFG`s POTD Question Solution here.
 | [0882-peak-index-in-a-mountain-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0907-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -240,6 +241,7 @@ All my GFG`s POTD Question Solution here.
 | [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
