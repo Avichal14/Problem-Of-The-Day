@@ -66,6 +66,7 @@ All my GFG`s POTD Question Solution here.
 | [0416-partition-equal-subset-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0576-out-of-boundary-paths) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -291,6 +292,7 @@ All my GFG`s POTD Question Solution here.
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0804-unique-morse-code-words) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
