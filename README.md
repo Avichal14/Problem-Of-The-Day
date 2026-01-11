@@ -8,6 +8,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0009-palindrome-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0069-sqrtx) |
@@ -230,6 +231,7 @@ All my GFG`s POTD Question Solution here.
 | [0001-two-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0076-minimum-window-substring) |
@@ -276,6 +278,7 @@ All my GFG`s POTD Question Solution here.
 | [0005-longest-palindromic-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0032-longest-valid-parentheses) |
