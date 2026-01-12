@@ -28,6 +28,7 @@ All my GFG`s POTD Question Solution here.
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -153,6 +154,7 @@ All my GFG`s POTD Question Solution here.
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1390-four-divisors) |
@@ -622,6 +624,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
 ## Brainteaser
 |  |
 | ------- |
