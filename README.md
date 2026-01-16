@@ -182,6 +182,7 @@ All my GFG`s POTD Question Solution here.
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -267,6 +268,7 @@ All my GFG`s POTD Question Solution here.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3583-count-special-triplets) |
@@ -510,6 +512,7 @@ All my GFG`s POTD Question Solution here.
 | [0204-count-primes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
 ## Divide and Conquer
 |  |
