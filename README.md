@@ -45,6 +45,7 @@ All my GFG`s POTD Question Solution here.
 | [2481-strictly-palindromic-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2481-strictly-palindromic-number) |
 | [2827-greatest-common-divisor-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2827-greatest-common-divisor-traversal) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -184,6 +185,7 @@ All my GFG`s POTD Question Solution here.
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -632,6 +634,7 @@ All my GFG`s POTD Question Solution here.
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Brainteaser
 |  |
 | ------- |
