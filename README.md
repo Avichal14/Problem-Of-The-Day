@@ -25,6 +25,7 @@ All my GFG`s POTD Question Solution here.
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0492-construct-the-rectangle) |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1015-smallest-integer-divisible-by-k) |
