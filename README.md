@@ -200,6 +200,7 @@ All my GFG`s POTD Question Solution here.
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3583-count-special-triplets) |
@@ -279,6 +280,7 @@ All my GFG`s POTD Question Solution here.
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -370,6 +372,7 @@ All my GFG`s POTD Question Solution here.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
@@ -439,6 +442,7 @@ All my GFG`s POTD Question Solution here.
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1765-merge-in-between-linked-lists) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -612,6 +616,7 @@ All my GFG`s POTD Question Solution here.
 | [0239-sliding-window-maximum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0239-sliding-window-maximum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
@@ -631,6 +636,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3827-implement-router) |
 ## Union Find
@@ -667,4 +673,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
