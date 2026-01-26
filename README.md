@@ -154,6 +154,7 @@ All my GFG`s POTD Question Solution here.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
+| [1200-minimum-absolute-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
@@ -425,6 +426,7 @@ All my GFG`s POTD Question Solution here.
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
+| [1200-minimum-absolute-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
