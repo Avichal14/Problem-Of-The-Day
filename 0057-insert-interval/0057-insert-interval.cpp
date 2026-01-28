@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>>& inv, vector<int>& ninv) {
+     vector<vector<int>> insert(vector<vector<int>>& inv, vector<int>& ninv) {
         vector<vector<int>>ans;
         int start=ninv[0],end=ninv[1];
         bool inserted=false;
