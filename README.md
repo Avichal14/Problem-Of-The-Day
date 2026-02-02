@@ -27,6 +27,7 @@ All my GFG`s POTD Question Solution here.
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0492-construct-the-rectangle) |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
+| [0976-largest-perimeter-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
@@ -153,6 +154,7 @@ All my GFG`s POTD Question Solution here.
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1006-vowel-spellchecker](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1006-vowel-spellchecker) |
 | [1200-minimum-absolute-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1200-minimum-absolute-difference) |
@@ -427,6 +429,7 @@ All my GFG`s POTD Question Solution here.
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
+| [0976-largest-perimeter-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -511,6 +514,7 @@ All my GFG`s POTD Question Solution here.
 | [0316-remove-duplicate-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1448-maximum-69-number) |
