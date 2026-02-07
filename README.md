@@ -75,6 +75,7 @@ All my GFG`s POTD Question Solution here.
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Recursion
@@ -330,6 +331,7 @@ All my GFG`s POTD Question Solution here.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -502,6 +504,7 @@ All my GFG`s POTD Question Solution here.
 | [0225-implement-stack-using-queues](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0496-next-greater-element-i) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
 ## Design
