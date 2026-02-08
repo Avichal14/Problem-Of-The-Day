@@ -11,36 +11,14 @@
  */
 class Solution {
 public:
-   int height(TreeNode* root){
-        if(root==NULL){
-            return 0;
-        }
-        int left=height(root->left);
-        int right=height(root->right);
-        int ans=max(left,right)+1;
-        return ans;
+    using int2=pair<int, bool>;
+    int2 dfs(TreeNode* root){
+        if (!root) return {0, 1};
+        auto [lH, lB]=dfs(root->left);
+        auto [rH, rB]=dfs(root->right);
+        return {1+max(lH, rH), lB & rB & abs(lH-rH)<=1};
     }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-        //1 case
-        int lefth=height(root->left);
-        int righth=height(root->right);
-        int diff=abs(lefth-righth);
-        
-        bool ans1=(diff<=1);
-        
-        //Recursion
-        
-        bool lefta=isBalanced(root->left);
-        bool righta=isBalanced(root->right);
-        
-        if(ans1 && lefta && righta){
-            return true;
-        }
-        else {
-            return false;
-        }
+        return dfs(root).second;
     }
 };
