@@ -526,6 +526,7 @@ All my GFG`s POTD Question Solution here.
 | [0976-largest-perimeter-triangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0976-largest-perimeter-triangle) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
@@ -560,6 +561,7 @@ All my GFG`s POTD Question Solution here.
 | [0053-maximum-subarray](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0191-number-of-1-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -584,6 +586,7 @@ All my GFG`s POTD Question Solution here.
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -602,6 +605,7 @@ All my GFG`s POTD Question Solution here.
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -621,6 +625,7 @@ All my GFG`s POTD Question Solution here.
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -713,4 +718,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
