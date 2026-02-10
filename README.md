@@ -219,6 +219,7 @@ All my GFG`s POTD Question Solution here.
 | [3634-minimum-removals-to-balance-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3637-trionic-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
@@ -294,6 +295,7 @@ All my GFG`s POTD Question Solution here.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3827-implement-router) |
@@ -562,6 +564,7 @@ All my GFG`s POTD Question Solution here.
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -661,9 +664,11 @@ All my GFG`s POTD Question Solution here.
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
