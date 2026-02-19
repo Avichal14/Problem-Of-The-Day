@@ -325,6 +325,7 @@ All my GFG`s POTD Question Solution here.
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0804-unique-morse-code-words) |
@@ -415,6 +416,7 @@ All my GFG`s POTD Question Solution here.
 | [0349-intersection-of-two-arrays](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0696-count-binary-substrings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0953-reverse-only-letters) |
 | [0985-bag-of-tokens](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0985-bag-of-tokens) |
