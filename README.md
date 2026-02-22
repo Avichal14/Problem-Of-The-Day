@@ -249,6 +249,7 @@ All my GFG`s POTD Question Solution here.
 | [0645-set-mismatch](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0868-binary-gap) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
