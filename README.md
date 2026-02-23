@@ -250,6 +250,7 @@ All my GFG`s POTD Question Solution here.
 | [0693-binary-number-with-alternating-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -283,6 +284,7 @@ All my GFG`s POTD Question Solution here.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1500-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
@@ -335,6 +337,7 @@ All my GFG`s POTD Question Solution here.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -710,10 +713,12 @@ All my GFG`s POTD Question Solution here.
 ## Rolling Hash
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Doubly-Linked List
 |  |
