@@ -594,6 +594,7 @@ All my GFG`s POTD Question Solution here.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
@@ -613,6 +614,7 @@ All my GFG`s POTD Question Solution here.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
@@ -633,6 +635,7 @@ All my GFG`s POTD Question Solution here.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0145-binary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
