@@ -164,6 +164,7 @@ All my GFG`s POTD Question Solution here.
 | [1266-minimum-time-visiting-all-points](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -250,6 +251,7 @@ All my GFG`s POTD Question Solution here.
 | [0693-binary-number-with-alternating-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -450,6 +452,7 @@ All my GFG`s POTD Question Solution here.
 | [1200-minimum-absolute-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -578,6 +581,7 @@ All my GFG`s POTD Question Solution here.
 | [0169-majority-element](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3583-count-special-triplets) |
