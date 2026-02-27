@@ -24,6 +24,7 @@ All my GFG`s POTD Question Solution here.
 | [0342-power-of-four](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0412-fizz-buzz](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0492-construct-the-rectangle) |
 | [0830-largest-triangle-area](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0830-largest-triangle-area) |
@@ -329,6 +330,7 @@ All my GFG`s POTD Question Solution here.
 | [0344-reverse-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0696-count-binary-substrings) |
@@ -386,6 +388,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
