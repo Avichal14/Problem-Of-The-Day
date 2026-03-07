@@ -78,6 +78,7 @@ All my GFG`s POTD Question Solution here.
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Recursion
@@ -355,6 +356,7 @@ All my GFG`s POTD Question Solution here.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -378,6 +380,7 @@ All my GFG`s POTD Question Solution here.
 | [0239-sliding-window-maximum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3634-minimum-removals-to-balance-array) |
