@@ -44,6 +44,7 @@ All my GFG`s POTD Question Solution here.
 | [1642-water-bottles](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2481-strictly-palindromic-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2481-strictly-palindromic-number) |
@@ -181,6 +182,7 @@ All my GFG`s POTD Question Solution here.
 | [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1980-find-unique-binary-string) |
@@ -400,6 +402,7 @@ All my GFG`s POTD Question Solution here.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -482,6 +485,7 @@ All my GFG`s POTD Question Solution here.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2215-finding-3-digit-even-numbers) |
@@ -693,6 +697,7 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0239-sliding-window-maximum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -704,6 +709,7 @@ All my GFG`s POTD Question Solution here.
 | [0303-range-sum-query-immutable](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0713-subarray-product-less-than-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1895-largest-magic-square) |
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
