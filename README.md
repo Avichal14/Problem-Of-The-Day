@@ -183,6 +183,7 @@ All my GFG`s POTD Question Solution here.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1980-find-unique-binary-string) |
@@ -404,6 +405,7 @@ All my GFG`s POTD Question Solution here.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
