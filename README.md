@@ -78,6 +78,7 @@ All my GFG`s POTD Question Solution here.
 | [1013-fibonacci-number](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -180,6 +181,7 @@ All my GFG`s POTD Question Solution here.
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -404,6 +406,7 @@ All my GFG`s POTD Question Solution here.
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1895-largest-magic-square) |
