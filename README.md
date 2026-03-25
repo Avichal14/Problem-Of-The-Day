@@ -227,6 +227,7 @@ All my GFG`s POTD Question Solution here.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3546-equal-sum-grid-partition-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3583-count-special-triplets](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -415,6 +416,7 @@ All my GFG`s POTD Question Solution here.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
@@ -611,6 +613,7 @@ All my GFG`s POTD Question Solution here.
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3546-equal-sum-grid-partition-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -726,6 +729,7 @@ All my GFG`s POTD Question Solution here.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
