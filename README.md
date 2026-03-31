@@ -383,6 +383,7 @@ All my GFG`s POTD Question Solution here.
 | [3194-find-words-containing-character](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3447-clear-digits) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -593,12 +594,14 @@ All my GFG`s POTD Question Solution here.
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Number Theory
 |  |
 | ------- |
