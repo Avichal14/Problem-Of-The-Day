@@ -84,6 +84,7 @@ All my GFG`s POTD Question Solution here.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Recursion
 |  |
@@ -222,6 +223,7 @@ All my GFG`s POTD Question Solution here.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3453-separate-squares-i) |
@@ -420,6 +422,7 @@ All my GFG`s POTD Question Solution here.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2906-construct-product-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
