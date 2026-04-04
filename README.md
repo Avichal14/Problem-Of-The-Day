@@ -376,6 +376,7 @@ All my GFG`s POTD Question Solution here.
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -438,6 +439,7 @@ All my GFG`s POTD Question Solution here.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2260-divide-a-string-into-groups-of-size-k) |
