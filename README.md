@@ -196,6 +196,7 @@ All my GFG`s POTD Question Solution here.
 | [1980-find-unique-binary-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -619,6 +620,7 @@ All my GFG`s POTD Question Solution here.
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/3474-lexicographically-smallest-generated-string) |
