@@ -178,6 +178,7 @@ All my GFG`s POTD Question Solution here.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -426,6 +427,7 @@ All my GFG`s POTD Question Solution here.
 | [0079-word-search](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0898-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -684,6 +686,7 @@ All my GFG`s POTD Question Solution here.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -711,6 +714,7 @@ All my GFG`s POTD Question Solution here.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -835,4 +839,8 @@ All my GFG`s POTD Question Solution here.
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1114-print-in-order) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Avichal14/Problem-Of-The-Day/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
